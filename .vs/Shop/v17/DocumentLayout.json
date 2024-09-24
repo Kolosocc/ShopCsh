@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Prodgect IT\\C#\\ShopNeedWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\addingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:addingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\migrations\\20240923074456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:migrations\\20240923074456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\migrations\\20240923094037_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:migrations\\20240923094037_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\productusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:productusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\productusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:productusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\productusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:productusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\addingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:addingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\addingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:addingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|e:\\prodgect it\\c#\\shopneedwork\\migrations\\20240923094037_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC513471-BE60-4A34-8FC1-FE779AD3D535}|Shop.csproj|solutionrelative:migrations\\20240923094037_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Prodgect IT\\C#\\ShopNeedWork\\obj\\Truman_catalog.csproj.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Truman_catalog.csproj.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 133,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240923074456_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\20240923074456_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240923074456_InitialCreate.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\20240923074456_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240923074456_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:04:20.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:30:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240923094037_InitialMigration.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\20240923094037_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240923094037_InitialMigration.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\20240923094037_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240923094037_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:04:45.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddingForm.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\AddingForm.cs",
+              "RelativeDocumentMoniker": "AddingForm.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\AddingForm.cs",
+              "RelativeToolTip": "AddingForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:30:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAADwv7kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:29:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:28:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "productUserControl.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\productUserControl.cs",
+              "RelativeDocumentMoniker": "productUserControl.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\productUserControl.cs",
+              "RelativeToolTip": "productUserControl.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:31:17.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "productUserControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\productUserControl.cs",
+              "RelativeDocumentMoniker": "productUserControl.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\productUserControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "productUserControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:56:11.453Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "productUserControl.Designer.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\productUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "productUserControl.Designer.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\productUserControl.Designer.cs",
+              "RelativeToolTip": "productUserControl.Designer.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAKcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:46:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:28:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:30:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-24T06:16:49.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Manufacturer.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Manufacturer.cs",
+              "RelativeToolTip": "Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:28:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:28:47.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\AddingForm.cs",
+              "RelativeDocumentMoniker": "AddingForm.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\AddingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "AddingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:30:29.939Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:29:11.442Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddingForm.Designer.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\AddingForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddingForm.Designer.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\AddingForm.Designer.cs",
+              "RelativeToolTip": "AddingForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:30:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240923094037_InitialMigration.Designer.cs",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\20240923094037_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240923094037_InitialMigration.Designer.cs",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\Migrations\\20240923094037_InitialMigration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240923094037_InitialMigration.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:04:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Truman_catalog.csproj.EntityFrameworkCore.targets",
+              "DocumentMoniker": "E:\\Prodgect IT\\C#\\ShopNeedWork\\obj\\Truman_catalog.csproj.EntityFrameworkCore.targets",
+              "RelativeDocumentMoniker": "obj\\Truman_catalog.csproj.EntityFrameworkCore.targets",
+              "ToolTip": "E:\\Prodgect IT\\C#\\ShopNeedWork\\obj\\Truman_catalog.csproj.EntityFrameworkCore.targets",
+              "RelativeToolTip": "obj\\Truman_catalog.csproj.EntityFrameworkCore.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-24T04:57:24.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

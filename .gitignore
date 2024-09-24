@@ -1,0 +1,23 @@
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Зависимости
+node_modules/
+vendor/
+
+# Собранные файлы
+dist/
+build/
+
+# Системные файлы и конфигурации IDE
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Конфиденциальные данные
+.env
+secrets.json
